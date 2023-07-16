@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdullah AlMeshhen</h1>
+<h1 align="center">Hi 👋, I'm Abdullah Al-Meshhen</h1>
 <h3 align="center">I'm sophomore student in KFUPM</h3>
 <img align="right" alt="Coding" width="400" src="https://sithcomputers.com/wp-content/uploads/2021/02/Full-Stack-Developer-1.gif">
 
