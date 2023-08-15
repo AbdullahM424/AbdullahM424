@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahm424&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahm424" /> </p>
 
-- 🌱 I’m currently learning **JavaScript & HTML**
+- 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **Python, Java, JavaScript**
+- 💬 Ask me about **Python, Java**
 
 - 📫 How to reach me **abmeshhen@hotmail.com**
 
