@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahm424&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahm424" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **HTML**
 
-- 💬 Ask me about **Python, Java**
+- 💬 Ask me about **Python, Java, HTML**
 
-- 📫 How to reach me **abmeshhen@hotmail.com**
+- 📫 How to reach me **abmeshhen21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
