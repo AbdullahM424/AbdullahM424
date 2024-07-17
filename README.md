@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Al-Meshhen</h1>
-<h3 align="center">I'm Junior student in KFUPM</h3>
+<h3 align="center">I'm Web Developer and Junior Software Engineering student in KFUPM</h3>
 <img align="right" alt="Coding" width="400" src="https://sithcomputers.com/wp-content/uploads/2021/02/Full-Stack-Developer-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahm424&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahm424" /> </p>
