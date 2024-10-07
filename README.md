@@ -30,14 +30,14 @@ When I'm not around my computer I go to the gym, read books, Watching series, an
 <br />
 
 #
-
+<!--
 ### 📊 Stats
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdullahM424_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
-#
+
 <!--
 <details>
  <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
