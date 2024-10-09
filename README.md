@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abdullah Almeshhen!
+# 👋 Hi, I'm Abdullah!
 I'm a 21-year-old full stack web developer and Junior Software Engineering student at KFUPM. My curiosity about how <br>websites work sparked in high school, and I started learning to code at university. Since November 2023, I've focused on <br>web development through a Bootcamp, aiming to create modern, flexible websites that benefit the community.
 
 
